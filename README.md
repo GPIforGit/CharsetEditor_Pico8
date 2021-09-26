@@ -1,6 +1,8 @@
 Charset editor for Pico 8
 -------------------------
 
+![picture alt](https://github.com/GPIforGit/CharsetEditor_Pico8/blob/main/charseteditor.jpg "Charset Editor")
+
 written by GPI
 
 copy me, I'm free!
